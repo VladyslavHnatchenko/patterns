@@ -154,5 +154,3 @@ if __name__ == "__main__":
     print("Client: Testing the same client code with the second factory type:")
     client_code(ConcreteFactory2())
     print("\n")
-
-    
